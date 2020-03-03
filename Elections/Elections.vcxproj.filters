@@ -24,9 +24,15 @@
     <ClInclude Include="constituency.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="app_exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="candidate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="app_exception.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

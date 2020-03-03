@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="app_exception.h" />
     <ClInclude Include="candidate.h" />
     <ClInclude Include="constituency.h" />
     <ClInclude Include="libs.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="app_exception.cpp" />
     <ClCompile Include="candidate.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
