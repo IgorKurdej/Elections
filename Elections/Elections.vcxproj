@@ -23,6 +23,7 @@
     <ClInclude Include="candidate.h" />
     <ClInclude Include="constituency.h" />
     <ClInclude Include="data_generator.h" />
+    <ClInclude Include="elections.h" />
     <ClInclude Include="libs.h" />
     <ClInclude Include="voter.h" />
   </ItemGroup>
@@ -30,6 +31,7 @@
     <ClCompile Include="app_exception.cpp" />
     <ClCompile Include="candidate.cpp" />
     <ClCompile Include="data_generator.cpp" />
+    <ClCompile Include="elections.cpp" />
     <ClCompile Include="voter.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
